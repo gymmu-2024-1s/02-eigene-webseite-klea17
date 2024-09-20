@@ -34,7 +34,33 @@ body {
 
 .my-h1 {
     color: ghostwhite;
+    font-size: 320%;
 }
 .my-h2 {
     color: ghostwhite;
+    font-size: 260%;
+}
+.my-p1 {
+    color: deeppink;
+    font-size: x-large;
+}
+.was {
+    color: deeppink;
+    font-size: x-large;
+}
+.wo {
+    color: deeppink;
+    font-size: x-large;
+}
+.wann {
+    color: deeppink;
+    font-size: x-large;
+}
+.warum {
+    color: deeppink;
+    font-size: x-large;
+}
+.wieso {
+    color: deeppink;
+    font-size: x-large;
 }
