@@ -64,6 +64,8 @@ body {
     color: deeppink;
     font-size: x-large;
 }
-img {
-    width: 100%;
+.my-h6 {
+    color: ghostwhite;
+    font-size: 300%;
+    font-family: 'Times New Roman', Times, serif;
 }
